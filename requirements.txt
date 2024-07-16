@@ -1,0 +1,14 @@
+scrapy
+beautifulsoup4
+pandas
+scikit-learn
+sentence_transformers
+python-dotenv
+rank_bm25
+accelerate 
+transformers 
+bitsandbytes
+pinecone-client
+nltk
+torch
+
