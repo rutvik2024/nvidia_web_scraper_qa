@@ -46,8 +46,8 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-document-qa-system.git
-   cd advanced-document-qa-system
+   git clone https://github.com/rutvik2024/nvidia_web_scraper_qa.git
+   cd nvidia_web_scraper_qa
    ```
 
 2. Create a virtual environment:
